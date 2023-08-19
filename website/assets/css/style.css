@@ -1,5 +1,11 @@
 body{
-    background: #BDBDBD;
+    background: white;
+}
+
+.avatar2{
+
+    justify-content: center;
+    margin-top: 100px;
 }
 
 .avatar{
